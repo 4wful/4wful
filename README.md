@@ -16,13 +16,20 @@
   
 <hr>
 <Br>
-<h1 align="center">Get in Touch! 📬</h1>
+<h1 align="center">My Projects 🚀</h1>
 <Br>
 <p align="center">
-<a href="mailto:g7idomai1234@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/g7idomai1234@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp; <a href="https://wa.me/51980503569" target="_blank">
-<img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>  &nbsp;&nbsp;&nbsp;        
+    <a href="https://eloboostcarnival-s.onrender.com" target="_blank">
+        <img src="https://img.shields.io/badge/EloBoost%20Carnival-%23000000.svg?style=for-the-badge&logo=render&logoColor=white" />
+    </a>
+    <a href="https://matricula-6a6j.onrender.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Matrícula-%23000000.svg?style=for-the-badge&logo=render&logoColor=white" />
+    </a>
 </p>
-  
+<Br>
+<p align="center">
+    Check out my projects on Render! The first one is a service for gaming boosts, and the second is a web application for student enrollment.
+</p>
 <Br>
 <hr>
 <Br>
@@ -72,6 +79,14 @@
 
 
 </p>
+<hr>
+<Br>
+<h1 align="center">Get in Touch! 📬</h1>
+<Br>
+<p align="center">
+<a href="mailto:g7idomai1234@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/g7idomai1234@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp; <a href="https://wa.me/51980503569" target="_blank">
+<img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>  &nbsp;&nbsp;&nbsp;        
+</p>
+  
+<Br>
 
-<br>
-<br>
