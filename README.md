@@ -21,24 +21,6 @@
   
 <hr>
 <Br>
-<h1 align="center">My Projects 🚀</h1>
-<Br>
-<p align="center">
-    <a href="https://eloboostcarnival-s.onrender.com" target="_blank">
-        <img src="https://img.shields.io/badge/EloBoost%20Carnival-%23000000.svg?style=for-the-badge&logo=render&logoColor=white" />
-    </a>
-    <a href="https://matricula-6a6j.onrender.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Matrícula-%23000000.svg?style=for-the-badge&logo=render&logoColor=white" />
-    </a>
-</p>
-<Br>
-<p align="center">
-    Check out my projects on Render! The first one is a service for gaming boosts, and the second is a web application for student enrollment.
-</p>
-<Br>
-<hr>
-<Br>
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
