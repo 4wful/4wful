@@ -53,7 +53,7 @@
 
 Here are some of the data-related projects I've worked on:
 
-- 🔍 [General Data Projects](https://github.com/4wful/data-analyst-projects)  
+- 🔍 [Static Data Projects](https://github.com/4wful/data-analyst-projects)  
   Exploratory and applied projects covering various aspects of data analysis.
 
 ---
