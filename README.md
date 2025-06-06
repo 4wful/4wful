@@ -4,19 +4,19 @@
 
 <h1 align="center">
   Hi, I'm <a href="https://github.com/Aryagm">Güido Maidana</a> —
-  <span style="color:#FBBF24;">Data Analyst Intern</span> 👋
+  <span style="color:#FBBF24;">Data Engineer Intern</span> 👋
 </h1>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Final-year **Systems Engineering** student at UNFV.
-- 📈 Aspiring **Data Analyst**, passionate about transforming data into insights.
-- 💻 Experienced in **Python**, **SQL**, **Excel**, **Power BI**, and **Azure**.
-- 🔄 Working on **ETL processes** and **data visualization** using Power BI and Python.
-- 📚 Learning continuously about **data storytelling**, **dashboards**, and **predictive analytics**.
-- 🕹️ I enjoy **gaming** and **programming** to boost my logical thinking.
+- 🎓 Final-year **Systems Engineering** student at UNFV.  
+- 📈 Aspiring **Data Engineer** with expertise in **ETL pipelines**, **streaming data processing**, and **big data technologies**.  
+- 💻 Skilled in **Python**, **SQL**, **Docker**, **Apache Kafka**, **Apache Spark**, **Azure**, **Power BI**, and **Excel**.  
+- 🔄 Building and optimizing data workflows, processing streaming data, and enabling machine learning model training with scalable infrastructure.  
+- 📚 Passionate about **data architecture**, **cloud deployment**, and **data-driven solutions**.  
+- 🕹️ I enjoy **gaming** and **programming** to strengthen my problem-solving skills.
 
 ---
 
