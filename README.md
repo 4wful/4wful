@@ -56,15 +56,6 @@ Here are some of the data-related projects I've worked on:
 - 🔍 [General Data Projects](https://github.com/4wful/data-analyst-projects)  
   Exploratory and applied projects covering various aspects of data analysis.
 
-- ⚙️ [ETL with Python](https://github.com/4wful/data-analyst-learning-python-ETL)  
-  Building ETL pipelines using Python and Pandas.
-
-- 📊 [Power BI Dashboards](https://github.com/4wful/data-analyst-learning-powerBi)  
-  Business intelligence dashboards using Power BI, Power Query and DAX.
-
-- 📈 [Excel Projects](https://github.com/4wful/data-analyst-learning-excel)  
-  Excel-based reporting, data cleaning, and dashboards.
-
 ---
 
 ## 📫 Get in Touch
