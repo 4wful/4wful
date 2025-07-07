@@ -4,7 +4,7 @@
 
 <h1 align="center">
   Hi, I'm <a href="https://github.com/Aryagm">Güido Maidana</a> —
-  <span style="color:#FBBF24;">Data Science Intern</span> 👋
+  <span style="color:#FBBF24;">Data Engineer Intern</span> 👋
 </h1>
 
 ---
