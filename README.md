@@ -75,7 +75,7 @@ Here are some of the data-related projects I've worked on:
 - 🔍 [Static Data Projects](https://github.com/4wful/data-analyst-projects)  
   A collection of data analysis projects using static sources (CSV, Excel, PDF). These projects focus on data cleaning, exploratory analysis, interactive visualizations, and predictive modeling, applied to real-world business and financial scenarios.
 - 🔄 [Real Time Data Projects](https://github.com/4wful/real-time-data-analytics.git) 
-  Real-time analytics projects powered by technologies like Apache Kafka, Spark Streaming, and Machine Learning. Built to handle continuous data streams with use cases such as stock market prediction, live monitoring, and dynamic dashboards.
+  Real-time analytics system for stock market prediction using Apache Kafka, Spark Streaming, and Machine Learning (Random Forest + Linear Regression). Developed in a WSL2 + Ubuntu environment with a modular, scalable architecture for continuous data stream processing.
 - 🤖 [Telegram Academic Bot with Excel + Python](https://github.com/4wful/telegram-edu-bot-template)  
   A Telegram bot originally developed for Academia AYUX to automate academic data queries using Excel files and Python. Designed to help administrators access key student and payment data in real time—directly from their phones, without relying on complex. 
 ---
