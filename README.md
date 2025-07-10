@@ -36,7 +36,7 @@
 
 ### ☁️ Platforms & Deployment
 
-| ![WSL2](https://img.shields.io/badge/WSL2-Ubuntu-4EAA25?style=for-the-badge&logo=ubuntu&logoColor=white) | ![Render](https://img.shields.io/badge/Render-000000.svg?style=for-the-badge&logo=render&logoColor=white) | ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=for-the-badge&logo=github&logoColor=white) | ![Azure](https://img.shields.io/badge/Microsoft%20Azure-007BDF.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) |
+| ![WSL2](https://img.shields.io/badge/WSL2-Ubuntu-4EAA25?style=for-the-badge&logo=ubuntu&logoColor=white) | ![Render](https://img.shields.io/badge/Render-000000.svg?style=for-the-badge&logo=render&logoColor=white) | ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=for-the-badge&logo=github&logoColor=white) | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) |
 
 ---
 
