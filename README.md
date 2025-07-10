@@ -11,12 +11,13 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Final-year **Systems Engineering** student at UNFV.  
-- 📈 Aspiring **Data Engineer** with expertise in **ETL pipelines**, **streaming data processing**, and **big data technologies**.  
-- 💻 Skilled in **Python**, **SQL**, **Docker**, **Apache Kafka**, **Apache Spark**, **Azure**, **Power BI**, and **Excel**.  
-- 🔄 Building and optimizing data workflows, processing streaming data, and enabling machine learning model training with scalable infrastructure.  
-- 📚 Passionate about **data architecture**, **cloud deployment**, and **data-driven solutions**.  
-- 🕹️ I enjoy **gaming** and **programming** to strengthen my problem-solving skills.
+- 🎓 Final-year **Systems Engineering** student at UNFV (Tercio Superior).  
+- 🔍 Focused on **Data Engineering** and **Real-Time Analytics** using technologies like **Apache Kafka**, **Spark Streaming**, and **Machine Learning**.  
+- ⚙️ Skilled in designing and deploying **ETL pipelines**, **streaming workflows**, and scalable **ML systems** with tools like **Python**, **SQL**, **Docker**, and **Google Cloud**.  
+- 📊 Experience with data visualization using **Power BI** and **Excel**, and backend development with **Flask**.  
+- 📡 Recently migrated projects to a **WSL2 + Ubuntu environment** for improved Linux-based development.  
+- 🧠 Passionate about **data-driven solutions**, **cloud computing**, and **automation** for decision-making.  
+- 🎮 Enjoys **gaming** and tackling complex problems through code.
 
 ---
 
@@ -67,6 +68,8 @@ Here are some of the data-related projects I've worked on:
 
 ## 📫 Get in Touch
 
+Feel free to reach out to collaborate, ask questions, or just say hello!
+
 <p align="center">
   <a href="mailto:g7idomai1234@gmail.com">
     <img src="https://img.shields.io/badge/g7idomai1234@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -79,4 +82,9 @@ Here are some of the data-related projects I've worked on:
   <a href="https://www.linkedin.com/in/g%C3%BCido-maidana/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/4wful">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
+
