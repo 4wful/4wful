@@ -8,7 +8,6 @@
 </h1>
 
 ---
-
 ## 👨‍💻 About Me
 
 - 🎓 Final-year **Systems Engineering** student at UNFV (Tercio Superior).  
@@ -20,7 +19,6 @@
 - 🎮 Enjoys **gaming** and tackling complex problems through code.
 
 ---
-
 ## 🛠️ Skills
 
 ### 💻 Languages & Tools
@@ -51,7 +49,6 @@
 
 | ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-121011.svg?style=for-the-badge&logo=github&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) |
 
-
 ---
 
 ## 📂 Projects
@@ -65,7 +62,6 @@ Here are some of the data-related projects I've worked on:
 - 🤖 [Telegram Academic Bot with Excel + Python](https://github.com/4wful/telegram-edu-bot-template)  
   A Telegram bot originally developed for Academia AYUX to automate academic data queries using Excel files and Python. Designed to help administrators access key student and payment data in real time—directly from their phones, without relying on complex. 
 ---
-
 ## 📫 Get in Touch
 
 Feel free to reach out to collaborate, ask questions, or just say hello!
