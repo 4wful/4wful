@@ -24,46 +24,31 @@
 
 ### 💻 Languages & Tools
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-00C7B7?style=for-the-badge&logo=mysql&logoColor=white)  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-007BDF.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+| ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-00C7B7?style=for-the-badge&logo=mysql&logoColor=white) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) | ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
 ---
 
 ### 📊 Libraries & Frameworks
 
-![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0C4B8E.svg?style=for-the-badge&logo=matplotlib&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)  
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
+| ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-0C4B8E.svg?style=for-the-badge&logo=matplotlib&logoColor=white) | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![Spark MLlib](https://img.shields.io/badge/Spark_MLlib-E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white) |
 
 ---
 
-### ☁️ Deployment & Hosting
+### ☁️ Platforms & Deployment
 
-![Render](https://img.shields.io/badge/Render-000000.svg?style=for-the-badge&logo=render&logoColor=white)  
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=for-the-badge&logo=github&logoColor=white)  
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-007BDF.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+| ![WSL2](https://img.shields.io/badge/WSL2-Ubuntu-4EAA25?style=for-the-badge&logo=ubuntu&logoColor=white) | ![Render](https://img.shields.io/badge/Render-000000.svg?style=for-the-badge&logo=render&logoColor=white) | ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=for-the-badge&logo=github&logoColor=white) | ![Azure](https://img.shields.io/badge/Microsoft%20Azure-007BDF.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) |
 
 ---
 
-### 🛠️ Big Data & Streaming
+### ⚙️ Big Data & Streaming
 
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)  
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+| ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white) | ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white) | ![Parquet](https://img.shields.io/badge/Apache_Parquet-0D47A1?style=for-the-badge&logo=apachespark&logoColor=white) |
 
 ---
 
-### 🔧 Tools
+### 🧰 Tools
 
-![GitHub](https://img.shields.io/badge/GitHub-121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Google](https://img.shields.io/badge/Google-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+| ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-121011.svg?style=for-the-badge&logo=github&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) |
 
 
 ---
